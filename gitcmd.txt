@@ -1,0 +1,2 @@
+1.git config --global credential.helper store  //to avoid use the password every time while pushing the code
+
